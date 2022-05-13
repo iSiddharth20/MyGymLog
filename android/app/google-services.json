@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181470514767",
+    "project_id": "mygymlog2022",
+    "storage_bucket": "mygymlog2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181470514767:android:936237614c063bdf39243a",
+        "android_client_info": {
+          "package_name": "com.example.mygymlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181470514767-3qeulh29nn6eilud3m6nppbinmskb1a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmFXrgRrvDVscr6-0imIQTHy41f_y6aiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181470514767-3qeulh29nn6eilud3m6nppbinmskb1a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
